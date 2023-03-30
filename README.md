@@ -18,8 +18,7 @@
 
 1.  安装 mongodb
 2.  在安装路径的 bin 目录下命令行启动 mongo 服务
-3.  在 IDEA 打开 gogogou-server 文件夹，终端输入 npm run dev 启动项目后端服务
-4.  在 IDEA 打开 gogogou-web 文件夹，终端输入 npm run serve 启动项目前端并打开
+3.  启动 gogogou-server 后启动 gogogou-web，查看对应文件夹下的 README 文档
 
 
 #### 参与贡献
