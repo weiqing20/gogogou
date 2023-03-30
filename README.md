@@ -3,21 +3,24 @@
 #### 介绍
 慕课网前端工程师课程大型实战全栈项目，仅用于学习实践前端技术和夯实基础。
 
+
 #### 软件架构
 软件架构说明
 
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  API文档md：gogogou-server/docs/API.md
+2.  数据模型md：gogogou-server/docs/Model.md
+
+
+#### 联调打开
+
+1.  安装 mongodb
+2.  启动 mongodb 数据库，
+3.  在IDEA打开 gogogou-server 文件夹，终端输入 npm run dev 启动项目后端服务
+4.  在IDEA打开 gogogou-web 文件夹，终端输入 npm run serve 启动项目前端服务
+
 
 #### 参与贡献
 
