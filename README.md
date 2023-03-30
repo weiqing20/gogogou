@@ -10,16 +10,16 @@
 
 #### 使用说明
 
-1.  API文档md：gogogou-server/docs/API.md
-2.  数据模型md：gogogou-server/docs/Model.md
+1.  api 文档：     gogogou-server/docs/API.md
+2.  数据模型文档：  gogogou-server/docs/models.md
 
 
 #### 联调打开
 
 1.  安装 mongodb
-2.  启动 mongodb 数据库，
-3.  在IDEA打开 gogogou-server 文件夹，终端输入 npm run dev 启动项目后端服务
-4.  在IDEA打开 gogogou-web 文件夹，终端输入 npm run serve 启动项目前端服务
+2.  在安装路径的 bin 目录下命令行启动 mongo 服务
+3.  在 IDEA 打开 gogogou-server 文件夹，终端输入 npm run dev 启动项目后端服务
+4.  在 IDEA 打开 gogogou-web 文件夹，终端输入 npm run serve 启动项目前端并打开
 
 
 #### 参与贡献
